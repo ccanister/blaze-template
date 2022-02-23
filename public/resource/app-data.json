@@ -1,0 +1,15 @@
+{
+  "menu": [
+    {
+      "text": "列表",
+      "icon": "TableOutlined",
+      "children": [
+        {
+          "text": "简单列表",
+          "link": "/table/simple",
+          "tooltip": "支持从后端加载数据或者静态数据"
+        }
+      ]
+    }
+  ]
+}
